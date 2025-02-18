@@ -4,10 +4,10 @@ Introducing Semantics
 ### Objectives
 
 * Understand what the field of semantics is about.
-* Differenntiate between semantics and pragmatics.
+* Differentiate between semantics and pragmatics.
 * Get introduced to the basic concepts of semantics.
 * By the end of this assignment you are expected to know about:
-    - sence/reference distinction
+    - sense/reference distinction
     - truth conditions
     - compositionality
     - entailment
@@ -22,5 +22,5 @@ Introducing Semantics
 
 ### Task
 
-* Answert the questions in `editme.md` and commit and push your changes to the
+* Answer the questions in `editme.md` and commit and push your changes to the
     repository.
