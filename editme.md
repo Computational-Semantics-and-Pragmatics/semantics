@@ -1,14 +1,6 @@
 Questions on basic concepts in semantics
 ----------------------------------------
 
-1. **[1pt]** Is there a way to construe the meaning of proper names as _predicate_ expressions?
-   If so, how? If not, why not? 
-
-    ```
-    Answer:
-
-    ```
-
 1. **[1pt]** Why don't we just have the situation described by a sentence as its
    sense? 
 
@@ -16,14 +8,14 @@ Questions on basic concepts in semantics
     Answer:
 
     ```
-1. **[1pt]** Let `S` and `P` be two sentences, and assume `S` entails `P`. What can you
-   say about their senses?
+1. **[1pt]** Let `S` and `P` be two sentences, and assume `S` entails `P`. How
+   are they senses related?
 
     ```
     Answer:
 
     ```
-1. **[1pt]** Kearn talks about "informational strength". Take two sentences:
+1. **[1pt]** Kearns talks about "informational strength". Take two sentences:
     `I have a cat` and `I have a pet`. Which one is informationally stronger?
     Why?
     
@@ -44,6 +36,14 @@ Questions on basic concepts in semantics
     Answer:
     
     ```
+1. **[1pt]** Is there a way to construe the meaning of proper names as _predicate_ expressions?
+   If so, how? If not, why not? 
+
+    ```
+    Answer:
+
+    ```
+
 1. Take the expression `9!` (nine factorial). What does it mean? Can you see a
    dichotomy akin to the sense/reference distinction?
 

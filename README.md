@@ -17,10 +17,10 @@ Introducing Semantics
 ### Reading
 
 * Kearns Ch. 1
-* Cann Ch. 1
+* Cann Ch. 1 (recommended)
 
 
 ### Task
 
-* Answer the questions in `editme.md` and commit and push your changes to the
-    repository.
+* Answer the questions in `editme.md` and commit and push your changes to your 
+    assignment repository.
